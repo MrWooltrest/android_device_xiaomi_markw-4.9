@@ -50,6 +50,9 @@ vendor.display.enable_default_color_mode=1
 ro.fm.transmitter=false
 vendor.hw.fm.init=0
 
+# Filesystem
+fs_mgr.overlayfs.prefer_cache_backing_storage=true
+
 # HWUI
 ro.hwui.texture_cache_size=72
 ro.hwui.layer_cache_size=48
@@ -61,7 +64,6 @@ ro.hwui.text_small_cache_width=1024
 ro.hwui.text_small_cache_height=1024
 ro.hwui.text_large_cache_width=2048
 ro.hwui.text_large_cache_height=2048
-
 
 # LMKD/PSI
 ro.lmk.critical_upgrade=true
