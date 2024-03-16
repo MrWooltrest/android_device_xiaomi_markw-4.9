@@ -29,9 +29,9 @@ public class SoundControlSettingsActivity extends CollapsingToolbarBaseActivity 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getFragmentManager().beginTransaction()
-            .replace(com.android.settingslib.collapsingtoolbar.R.id.content_frame,  new SoundControlSettings())
-            .commit();
+        getFragmentManager().beginTransaction().replace(
+                com.android.settingslib.collapsingtoolbar.R.id.content_frame,
+                new SoundControlSettings()) .commit();
     }
 
     @Override
