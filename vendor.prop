@@ -131,6 +131,7 @@ ro.soc.model=MSM8953
 net.tcp.2g_init_rwnd=10
 
 # USB
+ro.usb.uvc.enabled=true
 vendor.usb.controller=7000000.dwc3
 persist.vendor.usb.config.extra=none
 vendor.usb.diag.func.name=diag
