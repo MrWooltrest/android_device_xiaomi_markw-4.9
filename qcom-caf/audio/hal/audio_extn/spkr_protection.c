@@ -45,7 +45,6 @@
 #include <dlfcn.h>
 #include <math.h>
 #include <unistd.h>
-#include <pthread.h>
 #include <cutils/properties.h>
 #include "audio_extn.h"
 #include <linux/msm_audio_calibration.h>
