@@ -130,8 +130,11 @@ ro.soc.model=MSM8953
 # Tcp
 net.tcp.2g_init_rwnd=10
 
-# Usb
+# USB
 persist.vendor.usb.config.extra=none
+vendor.usb.diag.func.name=diag
+vendor.usb.use_ffs_mtp=0
+vendor.usb.use_gadget_hal=0
 
 # Wifi
 wifi.interface=wlan0
