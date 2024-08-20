@@ -138,6 +138,9 @@ TARGET_QCOM_NO_FM_FIRMWARE := true
 BOARD_VENDOR_QCOM_GPS_LOC_API_HARDWARE := default
 LOC_HIDL_VERSION := 4.0
 
+# HWUI
+HWUI_COMPILE_FOR_PERF := true
+
 # HIDL
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE := \
     vendor/lineage/config/device_framework_matrix.xml \
