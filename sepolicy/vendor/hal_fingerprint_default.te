@@ -48,6 +48,7 @@ get_prop(hal_fingerprint_default, boot_status_prop)
 
 dontaudit hal_fingerprint_default default_android_vndservice:service_manager find;
 
+allow hal_fingerprint_default fpc_data_file:dir rw_dir_perms;
 type_transition hal_fingerprint_default system_data_file:{ dir file } gx_fpd_data_file;
 allow hal_fingerprint_default gx_fpd_data_file:dir create_dir_perms;
 allow hal_fingerprint_default system_data_file:dir create_dir_perms;
