@@ -448,6 +448,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0-service.qti.xiaomi_markw
 
+# UFFD GC
+OVERRIDE_ENABLE_UFFD_GC := false
+
 # USB HAL
 PRODUCT_PACKAGES += \
     usb_compositions.conf \
