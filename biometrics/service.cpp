@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#define LOG_TAG "android.hardware.biometrics.fingerprint@2.3-service.xiaomi_markw"
+#define LOG_TAG "android.hardware.biometrics.fingerprint@2.3-service.xiaomi"
 
 #include <android/log.h>
 #include <android-base/file.h>
