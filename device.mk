@@ -411,6 +411,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.qcom \
     init.class_main.sh \
+    init.goodix.sh \
     init.xiaomi.device.rc \
     init.msm.usb.configfs.rc \
     init.qcom.early_boot.sh \
