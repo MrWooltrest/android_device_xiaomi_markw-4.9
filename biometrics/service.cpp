@@ -33,10 +33,6 @@ bool is_goodix = false;
 
 static constexpr char kGoodixFpDev[] = "/dev/goodix_fp";
 
-bool is_goodix = false;
-
-static constexpr char kGoodixFpDev[] = "/dev/goodix_fp";
-
 using android::hardware::biometrics::fingerprint::V2_3::IBiometricsFingerprint;
 using android::hardware::biometrics::fingerprint::V2_3::implementation::BiometricsFingerprint;
 using android::hardware::configureRpcThreadpool;
