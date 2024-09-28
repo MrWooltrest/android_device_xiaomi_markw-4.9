@@ -45,6 +45,7 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     vendor/qcom/opensource/usb/etc \
+    hardware/xiaomi \
     $(LOCAL_PATH)
 
 # Permissions
