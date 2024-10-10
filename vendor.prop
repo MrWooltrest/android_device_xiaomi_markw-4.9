@@ -132,6 +132,7 @@ net.tcp.2g_init_rwnd=10
 
 # USB
 ro.usb.uvc.enabled=true
+ro.usb.uvc.payload_transfer_size=1024
 vendor.usb.controller=7000000.dwc3
 persist.vendor.usb.config.extra=none
 vendor.usb.diag.func.name=diag
