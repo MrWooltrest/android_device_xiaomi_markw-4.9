@@ -359,16 +359,16 @@ PRODUCT_PACKAGES += \
 
 # OMX
 PRODUCT_PACKAGES += \
-    libc2dcolorconvert:32 \
-    libmm-omxcore:32 \
-    libOmxAacEnc:32 \
-    libOmxAmrEnc:32 \
-    libOmxCore:32 \
-    libOmxEvrcEnc:32 \
-    libOmxG711Enc:32 \
-    libOmxQcelp13Enc:32 \
-    libOmxVdec:32 \
-    libOmxVenc:32 \
+    libc2dcolorconvert \
+    libmm-omxcore \
+    libOmxAacEnc \
+    libOmxAmrEnc \
+    libOmxCore \
+    libOmxEvrcEnc \
+    libOmxG711Enc \
+    libOmxQcelp13Enc \
+    libOmxVdec \
+    libOmxVenc \
     libstagefrighthw \
     libstagefright_enc_common
 
@@ -435,11 +435,11 @@ PRODUCT_PACKAGES += \
 
 # RIL
 PRODUCT_PACKAGES += \
-    android.hardware.radio@1.5.vendor:64 \
-    android.hardware.radio.config@1.2.vendor:64 \
-    android.hardware.radio.deprecated@1.0.vendor:64 \
-    android.hardware.secure_element@1.2.vendor:64 \
-    librmnetctl:64 \
+    android.hardware.radio@1.5.vendor \
+    android.hardware.radio.config@1.2.vendor \
+    android.hardware.radio.deprecated@1.0.vendor \
+    android.hardware.secure_element@1.2.vendor \
+    librmnetctl \
     qti-telephony-hidl-wrapper \
     qti_telephony_hidl_wrapper.xml \
     qti-telephony-utils \
