@@ -372,21 +372,9 @@ PRODUCT_PACKAGES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    android.hardware.power@1.0 \
-    android.hardware.power@1.0.vendor \
-    android.hardware.power@1.1 \
-    android.hardware.power@1.1.vendor \
-    android.hardware.power@1.2 \
     android.hardware.power@1.2.vendor \
-    android.hardware.power@1.3 \
-    android.hardware.power@1.3.vendor \
-    android.hardware.power-service-qti
-
-# Perf
-PRODUCT_PACKAGES += \
-   libtflite \
-   libtextclassifier_hash \
-   vendor.qti.hardware.perf@2.2.vendor
+    android.hardware.power-service-qti \
+    vendor.qti.hardware.perf@2.2.vendor
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/powerhint.xml:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.xml \
