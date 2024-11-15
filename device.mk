@@ -211,10 +211,10 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.display.mapper@3.0.vendor
 
 # Device-specific settings
-PRODUCT_PACKAGES += \
-    DeviceDoze \
-    XiaomiParts
-    
+#PRODUCT_PACKAGES += \
+#    DeviceDoze \
+#    XiaomiParts
+   
 # Dex/ART optimization
 PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
 PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
