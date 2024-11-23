@@ -43,6 +43,7 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     vendor/qcom/opensource/usb/etc \
+    bootable/deprecated-ota \
     hardware/xiaomi \
     $(LOCAL_PATH)
 
