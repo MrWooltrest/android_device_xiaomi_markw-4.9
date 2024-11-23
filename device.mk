@@ -242,7 +242,7 @@ PRODUCT_COPY_FILES += \
 # FM
 PRODUCT_PACKAGES += \
     FMRadio \
-    libfmjni:64
+    libfmjni
 
 # Fwk-detect
 PRODUCT_PACKAGES += \
