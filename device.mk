@@ -209,8 +209,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.memtrack-service
 
 # Device-specific settings
-#PRODUCT_PACKAGES += \
-#    XiaomiParts
+PRODUCT_PACKAGES += \
+    XiaomiParts
 
 # Dex/ART optimization
 PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
