@@ -33,9 +33,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <!-- Enable doze mode -->
     <bool name="doze_display_state_supported">true</bool>
 
-    <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
-    <integer name="config_screenRecorderMaxFramerate">60</integer>
-
     <!-- System icon area layout weight -->
     <item name="system_icon_area_weight" format="float" type="integer">1.25</item>
  
