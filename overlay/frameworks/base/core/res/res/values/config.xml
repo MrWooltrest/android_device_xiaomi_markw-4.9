@@ -504,10 +504,6 @@
     <!-- Whether Hearing Aid profile is supported -->
     <bool name="config_hearing_aid_profile_supported">true</bool>
 
-
-    <!-- Whether of not wallpaper scrolling should be on or not. It may cuz lag in some low-end devices -->
-     <item name="config_wallpaperMaxScale" format="float" type="dimen">1.00</item>
-
     <!-- Feature flag to store TaskSnapshot in 16 bit pixel format to save memory. -->
     <bool name="config_use16BitTaskSnapshotPixelFormat">true</bool>
 
