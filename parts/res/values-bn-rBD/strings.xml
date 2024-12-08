@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">ডিফল্ট মান: <xliff:g id="v">%s</xliff:g>\nসেট করতে দীর্ঘক্ষণ টিপুন</string>
     <string name="custom_seekbar_default_value_is_set">ডিফল্ট মান সেট করা আছে</string>
 
-    <!-- Torch -->
-    <string name="torch_title">টর্চ সেটিংস</string>
-    <string name="torch_summary">সাদা/হলুদ টর্চ নিয়ন্ত্রণ</string>
-    <string name="yellow_torch_brightness_title">হলুদ টর্চের উজ্জ্বলতা</string>
-    <string name="white_torch_brightness_title">সাদা টর্চের উজ্জ্বলতা</string>
-
     <!-- Vibration Intensity -->
     <string name = "haptic_warning"> হ্যাপটিক লেভেল খুব বেশি সেট-আপ করলে স্থায়ী হার্ডওয়্যারের ক্ষতি হতে পারে, নিজের ঝুঁকিতে ব্যবহার করুন</string>
     <string name="haptic_summary">কম্পনের তীব্রতা কাস্টমাইজ করুন</string>

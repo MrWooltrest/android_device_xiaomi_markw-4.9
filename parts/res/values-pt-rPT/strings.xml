@@ -32,12 +32,6 @@
      <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id="v">%s</xliff:g>\nPressione e segure para definir</string>
      <string name="custom_seekbar_default_value_is_set">O valor padrão está definido</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Configurações da tocha</string>
-    <string name="torch_summary">Controle branco/amarelo da lanterna</string>
-    <string name="yellow_torch_brightness_title">Brilho da tocha amarela</string>
-    <string name="white_torch_brightness_title">Brilho da tocha branca</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Configurar um nível háptico muito alto pode causar danos permanentes ao hardware, use por sua conta e risco</string>
     <string name="haptic_summary">Personalizar a intensidade da vibração</string>

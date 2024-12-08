@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Zadana vrijednost: <xliff:g id="v">%s</xliff:g>\nDugi pritisak za postavljanje</string>
     <string name="custom_seekbar_default_value_is_set">Zadana vrijednost je postavljena</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Postavke svjetiljke</string>
-    <string name="torch_summary">Bjelo/žuta kontrola svjetiljke</string>
-    <string name="yellow_torch_brightness_title">Svjetlina žute baklje</string>
-    <string name="white_torch_brightness_title">Svjetlina bijele baklje</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Postavljanje previsoke razine dodira može uzrokovati trajno oštećenje hardvera, koristite na vlastitu odgovornost</string>
     <string name="haptic_summary">Prilagodite intenzitet vibracije</string>

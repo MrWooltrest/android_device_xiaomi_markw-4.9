@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Standardwert: <xliff:g id="v">%s</xliff:g>\nZum Einstellen lange drücken</string>
     <string name="custom_seekbar_default_value_is_set">Standardwert ist gesetzt</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Taschenlampen-Einstellungen</string>
-    <string name="torch_summary">Taschenlampe weiß/gelb Steuerung</string>
-    <string name="yellow_torch_brightness_title">Helligkeit der gelben Taschenlampe</string>
-    <string name="white_torch_brightness_title">Helligkeit der weißen Taschenlampe</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Ein zu hoher Haptikpegel kann zu dauerhaften Hardwareschäden führen, Verwendung auf eigene Gefahr</string>
     <string name="haptic_summary">Vibrationsintensität anpassen</string>

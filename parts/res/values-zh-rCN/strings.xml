@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">默认数值: <xliff:g id="v">%s</xliff:g>\n长按以设置</string>
     <string name="custom_seekbar_default_value_is_set">默认数值已设定</string>
 
-     <!-- Torch -->
-     <string name="torch_title">手電筒設置</string>
-     <string name="torch_summary">手電筒白/黃控</string>
-     <string name="yellow_torch_brightness_title">黃手電筒亮度</string>
-     <string name="white_torch_brightness_title">白手電筒亮度</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">設置觸覺級別過高可能會導致永久硬件損壞，使用風險自負</string>
     <string name="haptic_summary">自定義振動強度</string>

@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Προεπιλεγμένη τιμή: <xliff:g id="v">%s</xliff:g>\nΠατήστε παρατεταμένα για ρύθμιση</string>
     <string name="custom_seekbar_default_value_is_set">Η προεπιλεγμένη τιμή έχει οριστεί</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Ρυθμίσεις φακού</string>
-    <string name="torch_summary">Στοιχείο ελέγχου φακού λευκό/κίτρινο</string>
-    <string name="yellow_torch_brightness_title">Φωτεινότητα κίτρινου φακού</string>
-    <string name="white_torch_brightness_title">Φωτεινότητα λευκού φακού</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Η ρύθμιση του απτικού επιπέδου πολύ υψηλού μπορεί να προκαλέσει μόνιμη ζημιά στο υλικό, χρήση με δική σας ευθύνη</string>
     <string name="haptic_summary">Προσαρμογή έντασης δόνησης</string>

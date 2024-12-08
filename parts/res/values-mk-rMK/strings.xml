@@ -32,12 +32,6 @@
      <string name="custom_seekbar_default_value_to_set">Стандардна вредност: <xliff:g id="v">%s</xliff:g>\nДолго притиснете за поставување</string>
      <string name="custom_seekbar_default_value_is_set">Стандардната вредност е поставена</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Поставки за факелот</string>
-    <string name="torch_summary">Контрола со фенер бела/жолта</string>
-    <string name="yellow_torch_brightness_title">Осветленост на жолт факел</string>
-    <string name="white_torch_brightness_title">Осветленост на бел факел</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Поставувањето на превисокото ниво на хаптика може да предизвика трајно оштетување на хардверот, користете го на ваш сопствен ризик</string>
     <string name="haptic_summary">Приспособете го интензитетот на вибрациите</string>

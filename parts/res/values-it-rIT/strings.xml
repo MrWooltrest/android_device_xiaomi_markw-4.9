@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Valore di default: <xliff:g id="v">%s</xliff:g>\nPremere a lungo per impostare</string>
     <string name="custom_seekbar_default_value_is_set">Il valore predefinito è impostato</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Impostazioni della torcia</string>
-    <string name="torch_summary">Controllo luminosità giallo/bianco della torcia</string>
-    <string name="yellow_torch_brightness_title">Impostazioni di luminosità della torcia gialla</string>
-    <string name="white_torch_brightness_title">Impostazioni di luminosità della torcia bianca</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">L\'impostazione di un livello aptico troppo alto può causare danni permanenti all\'hardware, utilizzare a proprio rischio</string>
     <string name="haptic_summary">Personalizza l\'intensità della vibrazione</string>
