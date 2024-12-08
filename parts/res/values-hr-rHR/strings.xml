@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Zadano</string>
     <string name="custom_seekbar_default_value_to_set">Zadana vrijednost: <xliff:g id="v">%s</xliff:g>\nDugi pritisak za postavljanje</string>
     <string name="custom_seekbar_default_value_is_set">Zadana vrijednost je postavljena</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Postavljanje previsoke razine dodira može uzrokovati trajno oštećenje hardvera, koristite na vlastitu odgovornost</string>
-    <string name="haptic_summary">Prilagodite intenzitet vibracije</string>
-    <string name="vibrator_intensity_control">Kontrola intenziteta vibracije</string>
-    <string name="vmax_override_mode_title">Nadjačaj intenzitet vibracije</string>
-    <string name="vmax_override_mode_summary">Nadjačava vrijednost intenziteta vibracije za sve događaje obavijesti</string>
-    <string name="system_strength_title">Jačina vibracija</string>
 </resources>

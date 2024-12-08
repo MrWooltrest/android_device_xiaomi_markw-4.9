@@ -26,12 +26,4 @@
     <string name="custom_seekbar_default_value">افتراضي</string>
     <string name="custom_seekbar_default_value_to_set">القيمة الافتراضية: <xliff:g id="v">%s</xliff:g>\nاضغط لفترة طويلة لتعيين</string>
     <string name="custom_seekbar_default_value_is_set">تم تعيين القيمة الافتراضية</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">قد يتسبب إعداد مستوى عالي جدًا في حدوث تلف دائم للأجهزة ، استخدمه على مسؤوليتك الخاصة</string>
-    <string name="haptic_summary">تخصيص شدة الاهتزاز</string>
-    <string name="vibrator_intensity_control">التحكم في شدة الاهتزاز</string>
-    <string name="vmax_override_mode_title">تجاوز شدة الاهتزاز</string>
-    <string name="vmax_override_mode_summary">يلغي قيمة شدة الاهتزاز لجميع أحداث الإعلام</string>
-    <string name="system_strength_title">قوة الاهتزاز</string>
 </resources>

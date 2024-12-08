@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Lehenetsia</string>
     <string name="custom_seekbar_default_value_to_set">Balio lehenetsia: <xliff:g id="v">%s</xliff:g>\nSakatu luze ezartzeko</string>
     <string name="custom_seekbar_default_value_is_set">Balio lehenetsia ezarri da</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Haptiko-maila altuegia konfiguratzeak hardwarearen kalte iraunkorrak eragin ditzake, erabili zure ardurapean</string>
-    <string name="haptic_summary">Pertsonalizatu bibrazio-intentsitatea</string>
-    <string name="vibrator_intensity_control">Bibrazio-intentsitatearen kontrola</string>
-    <string name="vmax_override_mode_title">Bibrazio intentsitatea gainidatzi</string>
-    <string name="vmax_override_mode_summary">Bibrazio-intentsitatearen balioa gainidazten du jakinarazpen-gertaera guztientzat</string>
-    <string name="system_strength_title">Bibrazio indarra</string>
 </resources>

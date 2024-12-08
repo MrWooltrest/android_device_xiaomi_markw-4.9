@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Па змаўчанні</string>
     <string name="custom_seekbar_default_value_to_set">Значэнне па змаўчанні: <xliff:g id="v">%s</xliff:g>\nДоўгае націсканне, каб усталяваць</string>
     <string name="custom_seekbar_default_value_is_set">Значэнне па змаўчанні ўстаноўлена</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Наладжванне занадта высокага тактыльнага ўзроўню можа прывесці да пастаяннага пашкоджання абсталявання, выкарыстоўвайце на свой страх і рызыку</string>
-    <string name="haptic_summary">Наладзіць інтэнсіўнасць вібрацыі</string>
-    <string name="vibrator_intensity_control">Кантроль інтэнсіўнасці вібрацыі</string>
-    <string name="vmax_override_mode_title">Перавызначэнне інтэнсіўнасці вібрацыі</string>
-    <string name="vmax_override_mode_summary">Перакрывае значэнне інтэнсіўнасці вібрацыі для ўсіх падзей апавяшчэнняў</string>
-    <string name="system_strength_title">Сіла вібрацыі</string>
 </resources>

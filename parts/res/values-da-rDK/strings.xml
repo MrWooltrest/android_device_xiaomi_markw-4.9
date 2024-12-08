@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Standard</string>
     <string name="custom_seekbar_default_value_to_set">Standardværdi: <xliff:g id="v">%s</xliff:g>\nLang tryk for at indstille</string>
     <string name="custom_seekbar_default_value_is_set">Standardværdien er angivet</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Opsætning af haptisk niveau for højt kan forårsage permanent hardwareskade, brug på egen risiko</string>
-    <string name="haptic_summary">Tilpas vibrationsintensitet</string>
-    <string name="vibrator_intensity_control">Vibrationsintensitetskontrol</string>
-    <string name="vmax_override_mode_title">Tilsidesæt vibrationsintensitet</string>
-    <string name="vmax_override_mode_summary">Tilsidesætter værdi for vibrationsintensitet for alle underretningsbegivenheder</string>
-    <string name="system_strength_title">Vibrationsstyrke</string>
 </resources>

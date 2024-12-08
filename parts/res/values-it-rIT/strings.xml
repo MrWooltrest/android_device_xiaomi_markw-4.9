@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Default</string>
     <string name="custom_seekbar_default_value_to_set">Valore di default: <xliff:g id="v">%s</xliff:g>\nPremere a lungo per impostare</string>
     <string name="custom_seekbar_default_value_is_set">Il valore predefinito è impostato</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">L\'impostazione di un livello aptico troppo alto può causare danni permanenti all\'hardware, utilizzare a proprio rischio</string>
-    <string name="haptic_summary">Personalizza l\'intensità della vibrazione</string>
-    <string name="vibrator_intensity_control">Controllo dell\'intensità delle vibrazioni</string>
-    <string name="vmax_override_mode_title">Sostituisci l\'intensità della vibrazione</string>
-    <string name="vmax_override_mode_summary">Sostituisce il valore dell\'intensità della vibrazione per tutti gli eventi di notifica</string>
-    <string name="system_strength_title">Forza di vibrazione</string>
 </resources>

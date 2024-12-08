@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Výchozí</string>
     <string name="custom_seekbar_default_value_to_set">Výchozí hodnota: <xliff:g id="v">%s</xliff:g>\nNastavíte dlouhým stisknutím</string>
     <string name="custom_seekbar_default_value_is_set">Výchozí hodnota je nastavena</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Příliš vysoké nastavení haptické úrovně může způsobit trvalé poškození hardwaru, použití je na vlastní riziko</string>
-    <string name="haptic_summary">Přizpůsobte intenzitu vibrací</string>
-    <string name="vibrator_intensity_control">Ovládání intenzity vibrací</string>
-    <string name="vmax_override_mode_title">Přepsat intenzitu vibrací</string>
-    <string name="vmax_override_mode_summary">Přepíše hodnotu intenzity vibrací pro všechny události oznámení</string>
-    <string name="system_strength_title">Síla vibrací</string>
 </resources>
