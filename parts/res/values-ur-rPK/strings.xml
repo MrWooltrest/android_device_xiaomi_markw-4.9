@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">ڈیفالٹ</string>
     <string name="custom_seekbar_default_value_to_set">ڈیفالٹ قدر: <xliff:g id="v">%s</xliff:g>\nسیٹ کرنے کے لیے دیر تک دبائیں</string>
     <string name="custom_seekbar_default_value_is_set">پہلے سے طے شدہ قدر سیٹ ہے</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">ہاپٹک لیول کو بہت زیادہ سیٹ اپ کرنے سے ہارڈ ویئر کو مستقل نقصان پہنچ سکتا ہے، اپنے خطرے پر استعمال کریں</string>
-    <string name = "haptic_summary"> کمپن کی شدت کو حسب ضرورت بنائیں</string>
-    <string name = "vibrator_intensity_control"> کمپن کی شدت کا کنٹرول</string>
-    <string name = "vmax_override_mode_title"> وائبریشن کی شدت کو اوور رائیڈ کریں</string>
-    <string name="vmax_override_mode_summary">تمام اطلاعی واقعات کے لیے کمپن کی شدت کی قدر کو اوور رائیڈ کرتا ہے</string>
-    <string name="system_strength_title">وائبریشن کی طاقت</string>
 </resources>

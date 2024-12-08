@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Mặc định</string>
     <string name="custom_seekbar_default_value_to_set">Giá trị mặc định: <xliff:g id="v">%s</xliff:g>\n Nhấn và giữ để đặt</string>
     <string name="custom_seekbar_default_value_is_set">Giá trị mặc định được đặt</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Việc thiết lập mức xúc giác quá cao có thể gây ra hư hỏng phần cứng vĩnh viễn, bạn tự chịu rủi ro khi sử dụng</string>
-    <string name="haptic_summary">Tùy chỉnh cường độ rung</string>
-    <string name="vibrator_intensity_control">Kiểm soát cường độ rung</string>
-    <string name="vmax_override_mode_title">Ghi đè cường độ rung</string>
-    <string name="vmax_override_mode_summary">Ghi đè giá trị cường độ rung cho tất cả các sự kiện thông báo</string>
-    <string name="system_strength_title">Độ rung</string>
 </resources>

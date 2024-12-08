@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">默认</string>
     <string name="custom_seekbar_default_value_to_set">默认数值: <xliff:g id="v">%s</xliff:g>\n长按以设置</string>
     <string name="custom_seekbar_default_value_is_set">默认数值已设定</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">設置觸覺級別過高可能會導致永久硬件損壞，使用風險自負</string>
-    <string name="haptic_summary">自定義振動強度</string>
-    <string name="vibrator_intensity_control">振動強度控制</string>
-    <string name="vmax_override_mode_title">覆蓋振動強度</string>
-    <string name="vmax_override_mode_summary">覆蓋所有通知事件的振動強度值</string>
-    <string name="system_strength_title">振動強度</string>
 </resources>

@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Varsayılan</string>
     <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nAyarlamak için uzun basın</string>
     <string name="custom_seekbar_default_value_is_set">Varsayılan değer ayarlandı</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Dokunsal düzeyi çok yüksek ayarlamak donanımda kalıcı hasara neden olabilir, riski size ait olmak üzere kullanın</string>
-    <string name="haptic_summary">Titreşim yoğunluğunu özelleştirin</string>
-    <string name="vibrator_intensity_control">Titreşim Yoğunluğu Kontrolü</string>
-    <string name="vmax_override_mode_title">Titreşim Yoğunluğunu Geçersiz Kıl</string>
-    <string name="vmax_override_mode_summary">Tüm bildirim olayları için titreşim yoğunluğu değerini geçersiz kılar</string>
-    <string name="system_strength_title">Titreşim gücü</string>
 </resources>

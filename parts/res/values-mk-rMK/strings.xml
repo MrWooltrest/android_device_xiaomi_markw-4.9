@@ -31,12 +31,4 @@
      <string name="custom_seekbar_default_value">Стандардно</string>
      <string name="custom_seekbar_default_value_to_set">Стандардна вредност: <xliff:g id="v">%s</xliff:g>\nДолго притиснете за поставување</string>
      <string name="custom_seekbar_default_value_is_set">Стандардната вредност е поставена</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Поставувањето на превисокото ниво на хаптика може да предизвика трајно оштетување на хардверот, користете го на ваш сопствен ризик</string>
-    <string name="haptic_summary">Приспособете го интензитетот на вибрациите</string>
-    <string name="vibrator_intensity_control">Контрола на интензитетот на вибрации</string>
-    <string name="vmax_override_mode_title">Надминете го интензитетот на вибрации</string>
-    <string name="vmax_override_mode_summary">Ја отфрла вредноста на интензитетот на вибрациите за сите настани за известување</string>
-    <string name="system_strength_title">Јачина на вибрации</string>
 </resources>

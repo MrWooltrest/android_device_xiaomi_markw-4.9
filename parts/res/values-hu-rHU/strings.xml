@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Alapértelmezett</string>
     <string name="custom_seekbar_default_value_to_set">Alapértelmezett érték: <xliff:g id="v">%s</xliff:g>\nHosszú lenyomás a beállításhoz</string>
     <string name="custom_seekbar_default_value_is_set">Az alapértelmezett érték beállítva</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">A haptic szint túl magas beállítása maradandó hardverkárosodást okozhat, csak saját felelősségére használja</string>
-    <string name="haptic_summary">A rezgés intenzitásának testreszabása</string>
-    <string name="vibrator_intensity_control">Rezgésintenzitás-szabályozás</string>
-    <string name="vmax_override_mode_title">Rezgés intenzitás felülírása</string>
-    <string name="vmax_override_mode_summary">Felülbírálja a rezgés intenzitás értékét az összes értesítési eseménynél</string>
-    <string name="system_strength_title">Rezgés erőssége</string>
 </resources>

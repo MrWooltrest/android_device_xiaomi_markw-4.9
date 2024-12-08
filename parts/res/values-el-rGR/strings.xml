@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">Προεπιλογή</string>
     <string name="custom_seekbar_default_value_to_set">Προεπιλεγμένη τιμή: <xliff:g id="v">%s</xliff:g>\nΠατήστε παρατεταμένα για ρύθμιση</string>
     <string name="custom_seekbar_default_value_is_set">Η προεπιλεγμένη τιμή έχει οριστεί</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Η ρύθμιση του απτικού επιπέδου πολύ υψηλού μπορεί να προκαλέσει μόνιμη ζημιά στο υλικό, χρήση με δική σας ευθύνη</string>
-    <string name="haptic_summary">Προσαρμογή έντασης δόνησης</string>
-    <string name="vibrator_intensity_control">Έλεγχος έντασης κραδασμών</string>
-    <string name="vmax_override_mode_title">Παράκαμψη της έντασης δόνησης</string>
-    <string name="vmax_override_mode_summary">Αντικαθιστά την τιμή της έντασης δόνησης για όλα τα συμβάντα ειδοποιήσεων</string>
-    <string name="system_strength_title">Ισχύς κραδασμών</string>
 </resources>

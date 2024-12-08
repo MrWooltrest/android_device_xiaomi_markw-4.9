@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">за замовчуванням</string>
     <string name="custom_seekbar_default_value_to_set">Значення за замовчуванням: <xliff:g id="v">%s</xliff:g>\nДовгий тап для встановлення</string>
     <string name="custom_seekbar_default_value_is_set">Значення за замовчуванням встановлено</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">Налаштування надто високого рівня дотику може спричинити постійне пошкодження апаратного забезпечення, використовуйте на власний ризик</string>
-    <string name="haptic_summary">Налаштувати інтенсивність вібрації</string>
-    <string name="vibrator_intensity_control">Керування інтенсивністю вібрації</string>
-    <string name="vmax_override_mode_title">Зміна інтенсивності вібрації</string>
-    <string name="vmax_override_mode_summary">Замінює значення інтенсивності вібрації для всіх подій сповіщень</string>
-    <string name="system_strength_title">Сила вібрації</string>
 </resources>

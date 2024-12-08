@@ -31,12 +31,4 @@
     <string name="custom_seekbar_default_value">پیش‌فرض</string>
     <string name="custom_seekbar_default_value_to_set">مقدار پیش‌فرض: <xliff:g id="v">%s</xliff:g>\nبرای تنظیم فشار طولانی دهید</string>
     <string name="custom_seekbar_default_value_is_set">مقدار پیش‌فرض تنظیم شده است</string>
-
-    <!-- Vibration Intensity -->
-    <string name="haptic_warning">تنظیم سطح لمسی بیش از حد بالا ممکن است باعث آسیب دائمی سخت افزار شود، با مسئولیت خود استفاده کنید</string>
-    <string name="haptic_summary">سفارشی کردن شدت ارتعاش</string>
-    <string name="vibrator_intensity_control">کنترل شدت لرزش</string>
-    <string name="vmax_override_mode_title">نادیده گرفتن شدت لرزش</string>
-    <string name="vmax_override_mode_summary">مقدار شدت لرزش را برای همه رویدادهای اعلان لغو می‌کند</string>
-    <string name="system_strength_title">قدرت ارتعاش</string>
 </resources>
