@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nДолгий тап для установки</string>
     <string name="custom_seekbar_default_value_is_set">Значение по умолчанию установлено</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Фонарик</string>
-    <string name="torch_summary">Яркость белого/желтого светодиода</string>
-    <string name="yellow_torch_brightness_title">Яркость желтого светодиода</string>
-    <string name="white_torch_brightness_title">Яркость белого светодиода</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Установка слишком высокого тактильного уровня может привести к необратимому повреждению оборудования, используйте на свой страх и риск</string>
     <string name="haptic_summary">Настроить интенсивность вибрации</string>

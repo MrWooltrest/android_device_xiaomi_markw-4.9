@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nAyarlamak için uzun basın</string>
     <string name="custom_seekbar_default_value_is_set">Varsayılan değer ayarlandı</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Torç Ayarları</string>
-    <string name="torch_summary">El feneri beyaz/sarı kontrolü</string>
-    <string name="yellow_torch_brightness_title">Sarı Meşale Parlaklığı</string>
-    <string name="white_torch_brightness_title">Beyaz Meşale Parlaklığı</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Dokunsal düzeyi çok yüksek ayarlamak donanımda kalıcı hasara neden olabilir, riski size ait olmak üzere kullanın</string>
     <string name="haptic_summary">Titreşim yoğunluğunu özelleştirin</string>

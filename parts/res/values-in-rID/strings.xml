@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Nilai default: <xliff:g id="v">%s</xliff:g>\nTekan lama untuk menyetel</string>
     <string name="custom_seekbar_default_value_is_set">Nilai default disetel</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Setelan Obor</string>
-    <string name="torch_summary">Kontrol senter putih/kuning</string>
-    <string name="yellow_torch_brightness_title">Kecerahan Obor Kuning</string>
-    <string name="white_torch_brightness_title">Kecerahan Obor Putih</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Menyetel level haptic terlalu tinggi dapat menyebabkan kerusakan perangkat keras permanen, gunakan dengan risiko Anda sendiri</string>
     <string name="haptic_summary">Sesuaikan intensitas getaran</string>

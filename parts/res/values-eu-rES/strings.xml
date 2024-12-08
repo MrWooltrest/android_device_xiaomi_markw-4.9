@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Balio lehenetsia: <xliff:g id="v">%s</xliff:g>\nSakatu luze ezartzeko</string>
     <string name="custom_seekbar_default_value_is_set">Balio lehenetsia ezarri da</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Antornen ezarpenak</string>
-    <string name="torch_summary">Linterna zuri/horia kontrola</string>
-    <string name="yellow_torch_brightness_title">Antorcha horiaren distira</string>
-    <string name="white_torch_brightness_title">Antorcha Zuriaren distira</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Haptiko-maila altuegia konfiguratzeak hardwarearen kalte iraunkorrak eragin ditzake, erabili zure ardurapean</string>
     <string name="haptic_summary">Pertsonalizatu bibrazio-intentsitatea</string>

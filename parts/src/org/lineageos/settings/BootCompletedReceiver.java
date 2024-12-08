@@ -29,7 +29,6 @@ import androidx.preference.PreferenceManager;
 import org.lineageos.settings.doze.DozeUtils;
 import org.lineageos.settings.preferences.FileUtils;
 import org.lineageos.settings.soundcontrol.SoundControlSettings;
-import org.lineageos.settings.torch.TorchSettings;
 import org.lineageos.settings.vibration.VibratorStrengthPreference;
 import org.lineageos.settings.vibration.VibratorSettings;
 import org.lineageos.settings.vibration.VibratorOverrideModeSwitch;
@@ -62,13 +61,6 @@ public class BootCompletedReceiver extends BroadcastReceiver {
         }
 
         VibratorStrengthPreference.restore(context);
-
-        FileUtils.setValue(TorchSettings.TORCH_1_BRIGHTNESS_PATH,
-                Settings.Secure.getInt(context.getContentResolver(),
-                        TorchSettings.KEY_WHITE_TORCH_BRIGHTNESS, 100));
-        FileUtils.setValue(TorchSettings.TORCH_2_BRIGHTNESS_PATH,
-                Settings.Secure.getInt(context.getContentResolver(),
-                        TorchSettings.KEY_YELLOW_TORCH_BRIGHTNESS, 100));
 
         int gain = Settings.Secure.getInt(context.getContentResolver(),
                 SoundControlSettings.PREF_HEADPHONE_GAIN, 4);

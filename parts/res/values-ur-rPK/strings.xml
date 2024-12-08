@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">ڈیفالٹ قدر: <xliff:g id="v">%s</xliff:g>\nسیٹ کرنے کے لیے دیر تک دبائیں</string>
     <string name="custom_seekbar_default_value_is_set">پہلے سے طے شدہ قدر سیٹ ہے</string>
 
-    <!-- Torch -->
-    <string name="torch_title"> ٹارچ کی ترتیبات</string>
-    <string name="torch_summary"> فلیش لائٹ سفید/پیلا کنٹرول</string>
-    <string name="yellow_torch_brightness_title">پیلی مشعل کی چمک</string>
-    <string name="white_torch_brightness_title">سفید ٹارچ کی چمک</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">ہاپٹک لیول کو بہت زیادہ سیٹ اپ کرنے سے ہارڈ ویئر کو مستقل نقصان پہنچ سکتا ہے، اپنے خطرے پر استعمال کریں</string>
     <string name = "haptic_summary"> کمپن کی شدت کو حسب ضرورت بنائیں</string>

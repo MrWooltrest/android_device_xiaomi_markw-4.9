@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Значення за замовчуванням: <xliff:g id="v">%s</xliff:g>\nДовгий тап для встановлення</string>
     <string name="custom_seekbar_default_value_is_set">Значення за замовчуванням встановлено</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Ліхтарик</string>
-    <string name="torch_summary">Яскравість жовтого/білого світлодіода</string>
-    <string name="yellow_torch_brightness_title">Яскравість жовтого світлодіода</string>
-    <string name="white_torch_brightness_title">Яскравість білого світлодіода</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Налаштування надто високого рівня дотику може спричинити постійне пошкодження апаратного забезпечення, використовуйте на власний ризик</string>
     <string name="haptic_summary">Налаштувати інтенсивність вібрації</string>

@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Standardværdi: <xliff:g id="v">%s</xliff:g>\nLang tryk for at indstille</string>
     <string name="custom_seekbar_default_value_is_set">Standardværdien er angivet</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Lampeindstillinger</string>
-    <string name="torch_summary">Lommelygte hvid/gul kontrol</string>
-    <string name="yellow_torch_brightness_title">Gul fakkellysstyrke</string>
-    <string name="white_torch_brightness_title">Hvid fakkellysstyrke</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Opsætning af haptisk niveau for højt kan forårsage permanent hardwareskade, brug på egen risiko</string>
     <string name="haptic_summary">Tilpas vibrationsintensitet</string>

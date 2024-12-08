@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Valeur par défaut : <xliff:g id="v">%s</xliff:g>\nAppuyez longuement pour définir</string>
     <string name="custom_seekbar_default_value_is_set">La valeur par défaut est définie</string>
 
-    <!-- Torch Settings -->
-    <string name="torch_title">Torche</string>
-    <string name="torch_summary">Définir la luminosité maximale de la led jaune/blanche</string>
-    <string name="yellow_torch_brightness_title">Luminosité maximale de la led jaune</string>
-    <string name="white_torch_brightness_title">Luminosité maximale de la led blanche</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Configurer un niveau haptique trop élevé peut causer des dommages matériels permanents, utilisez à vos risques et périls</string>
     <string name="haptic_summary">Personnaliser l\'intensité des vibrations</string>

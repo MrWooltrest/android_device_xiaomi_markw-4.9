@@ -31,10 +31,4 @@
     <string name="custom_seekbar_default_value">Vaikeseade</string>
     <string name="custom_seekbar_default_value_to_set">Vaikeväärtus: <xliff:g id="v">%s</xliff:g>\nMääramiseks vajutage pikalt</string>
     <string name="custom_seekbar_default_value_is_set">Vaikeväärtus on määratud</string>
-
-    <!-- Torch -->
-    <string name="torch_title">Tõrviku seaded</string>
-    <string name="torch_summary">Taskulambi valge/kollane juhtnupp</string>
-    <string name="yellow_torch_brightness_title">Kollase tõrviku heledus</string>
-    <string name="white_torch_brightness_title">Tõrviku valge heledus</string>
 </resources>

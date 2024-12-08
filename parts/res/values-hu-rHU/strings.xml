@@ -32,12 +32,6 @@
     <string name="custom_seekbar_default_value_to_set">Alapértelmezett érték: <xliff:g id="v">%s</xliff:g>\nHosszú lenyomás a beállításhoz</string>
     <string name="custom_seekbar_default_value_is_set">Az alapértelmezett érték beállítva</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Zseblámpa</string>
-    <string name="torch_summary">A sárga/fehér LED maximális fényerejének beállítása</string>
-    <string name="yellow_torch_brightness_title">Sárga LED maximális fényerő</string>
-    <string name="white_torch_brightness_title">A fehér LED maximális fényerejének beállítása</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">A haptic szint túl magas beállítása maradandó hardverkárosodást okozhat, csak saját felelősségére használja</string>
     <string name="haptic_summary">A rezgés intenzitásának testreszabása</string>

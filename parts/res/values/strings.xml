@@ -31,12 +31,6 @@
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
 
-    <!-- Torch -->
-    <string name="torch_title">Torch Settings</string>
-    <string name="torch_summary">Flashlight white/yellow control</string>
-    <string name="yellow_torch_brightness_title">Yellow Torch Brightness</string>
-    <string name="white_torch_brightness_title">White Torch Brightness</string>
-
     <!-- Vibration Intensity -->
     <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
     <string name="haptic_summary">Customize vibration intensity</string>
