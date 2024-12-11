@@ -541,12 +541,6 @@
     <!-- Whether Hearing Aid profile is supported -->
     <bool name="config_hearing_aid_profile_supported">true</bool>
 
-    <!-- List supported color modes. -->
-    <integer-array name="config_availableColorModes">
-        <item>0</item> <!-- COLOR_MODE_NATURAL -->
-        <item>1</item> <!-- COLOR_MODE_BOOSTED -->
-    </integer-array>
-
     <!-- Whether or not to enable the lock screen entry point for the QR code scanner. -->
    <bool name="config_enableQrCodeScannerOnLockScreen">false</bool>
 
