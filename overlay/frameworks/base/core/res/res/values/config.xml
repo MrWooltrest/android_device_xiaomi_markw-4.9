@@ -551,10 +551,6 @@
         <item>1</item> <!-- COLOR_MODE_BOOSTED -->
     </integer-array>
 
-    <!-- See AmbientSensor.AmbientColorTemperatureSensor.
-         The ambient color temperature sensor name. -->
-    <string name="config_displayWhiteBalanceColorTemperatureSensorName">com.google.sensor.color</string>
-
     <!-- Whether or not to enable the lock screen entry point for the QR code scanner. -->
    <bool name="config_enableQrCodeScannerOnLockScreen">false</bool>
 
