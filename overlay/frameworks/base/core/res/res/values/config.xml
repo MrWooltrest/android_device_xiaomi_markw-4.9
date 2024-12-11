@@ -504,9 +504,6 @@
     <!-- Whether Hearing Aid profile is supported -->
     <bool name="config_hearing_aid_profile_supported">true</bool>
 
-    <!-- Whether or not to enable the lock screen entry point for the QR code scanner. -->
-   <bool name="config_enableQrCodeScannerOnLockScreen">false</bool>
-
     <!-- Feature flag to store TaskSnapshot in 16 bit pixel format to save memory. -->
     <bool name="config_use16BitTaskSnapshotPixelFormat">true</bool>
 
