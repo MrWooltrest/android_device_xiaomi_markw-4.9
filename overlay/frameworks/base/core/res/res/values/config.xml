@@ -461,9 +461,6 @@
     <!-- The name of the package that will hold the assistant role by default. -->
     <string name="config_defaultAssistant" translatable="false">com.google.android.googlequicksearchbox</string>
 
-    <!-- Whether to allow sending active app broadcast -->
-    <bool name="config_allowActivePackageBroadcast">true</bool>
-
     <!-- Configuration to enable non-default PDP during IWLAN -->
     <bool name="config_feature_iwlan_enabled">true</bool>
 
@@ -577,9 +574,6 @@
         <item>mark.via.gp</item>
     </string-array>
 
-    <!-- Whether or not to enable the lock screen entry point for the QR code scanner. -->
-   <bool name="config_enableQrCodeScannerOnLockScreen">false</bool>
-
     <!-- Feature flag to store TaskSnapshot in 16 bit pixel format to save memory. -->
     <bool name="config_use16BitTaskSnapshotPixelFormat">true</bool>
 
@@ -588,18 +582,8 @@
 
     <!-- Display low battery warning when battery level dips to this value -->
     <integer name="config_lowBatteryWarningLevel">15</integer>
-
+ 
      <!-- Display low battery warning when battery level dips to this value.
          Also, the battery stats are flushed to disk when we hit this level.  -->
     <integer name="config_criticalBatteryWarningLevel">8</integer>
-
-    <!-- Whether device supports in-display fingerprint -->
-    <bool name="config_supportsUdfps">false</bool>
-
-    <!-- Whether the device supports Smart Pixels -->
-    <bool name="config_supportSmartPixels">false</bool>
-
-    <!-- Flag indicating whether notification and ringtone volumes
-         are controlled together (aliasing is true) or not. -->
-    <bool name="config_alias_ring_notif_stream_types">false</bool>
 </resources>
