@@ -197,7 +197,7 @@ PRODUCT_PACKAGES += \
     gralloc.msm8953 \
     hwcomposer.msm8953 \
     libgralloc.system.qti \
-    libqdMetaData.system \
+    libqdMetaData \
     libtinyxml \
     libvulkan \
     vendor.display.config@1.0.vendor \
