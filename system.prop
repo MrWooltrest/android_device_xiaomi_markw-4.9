@@ -54,18 +54,6 @@ vendor.hw.fm.init=0
 # Filesystem
 fs_mgr.overlayfs.prefer_cache_backing_storage=true
 
-# HWUI
-ro.hwui.texture_cache_size=72
-ro.hwui.layer_cache_size=48
-ro.hwui.r_buffer_cache_size=8
-ro.hwui.path_cache_size=32
-ro.hwui.drop_shadow_cache_size=6
-ro.hwui.texture_cache_flushrate=0.4
-ro.hwui.text_small_cache_width=1024
-ro.hwui.text_small_cache_height=1024
-ro.hwui.text_large_cache_width=2048
-ro.hwui.text_large_cache_height=2048
-
 # LMK
 ro.lmk.filecache_min_kb=153600
 ro.lmk.kill_timeout_ms=50
