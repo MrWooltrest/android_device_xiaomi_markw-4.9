@@ -1,3 +1,5 @@
+# All unpinned blobs are extracted from markw-user 6.0.1 MMB29M V10.2.2.0.MBEMIXM release-keys
+
 # ADSP - from FP3-REL-6.A.030.0-gms-d57debf7-user
 vendor/bin/adsprpcd|5e246a6f5d2dca27e29b233a17e4673532191b95
 vendor/bin/dspservice|a7344fc3d27a49df30858ebc3f73ee5818e752d4
@@ -46,7 +48,7 @@ vendor/lib64/libadiertac.so|bf301460c27cb2f78bfb7f0821c1c103da321ff8
 vendor/lib64/libaudcal.so|82e7f821044492fa42dcad1e1ace91561cc8e463
 vendor/lib64/libaudioalsa.so|686766d57db36b00710973872e40f614bb2fe11f
 
-# Audio ACDB - from stock 6.0.1 MMB29M V10.2.2.0.MBEMIXM
+# Audio ACDB
 vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
 vendor/etc/acdbdata/MTP/MTP_General_cal.acdb
 vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb
