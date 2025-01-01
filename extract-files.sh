@@ -98,25 +98,12 @@ function blob_fixup() {
             [ "$2" = "" ] && return 0
             sed -i "s|persist.camera.debug.logfile|persist.vendor.camera.dbglog|g" "${2}"
             ;;
-        # Camera graphicbuffer shim
-        vendor/lib/libmmcamera_ppeiscore.so)
-            [ "$2" = "" ] && return 0
-            "${PATCHELF}" --add-needed "libui_shim.so" "${2}"
-            ;;
         # Camera VNDK support
         vendor/lib/libmmcamera2_stats_modules.so)
             [ "$2" = "" ] && return 0
             "${PATCHELF}" --remove-needed "libandroid.so" "${2}"
             "${PATCHELF}" --remove-needed "libgui.so" "${2}"
             sed -i "s|libandroid.so|libcamshim.so|g" "${2}"
-            ;;
-        vendor/lib/libmmcamera_ppeiscore.so)
-            [ "$2" = "" ] && return 0
-            "${PATCHELF}" --remove-needed "libgui.so" "${2}"
-            ;;
-        vendor/lib/libmpbase.so)
-            [ "$2" = "" ] && return 0
-            "${PATCHELF}" --remove-needed "libandroid.so" "${2}"
             ;;
         # Goodix
         vendor/bin/gx_fpd)
